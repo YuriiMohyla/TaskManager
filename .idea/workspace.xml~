@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="002b0af0-6aed-4534-87c9-9bc5ab57a20e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TA9pgJIXLUXfHHTb2YUZzDQ4UG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\NCTaskManager2\NCTaskManager\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.T8_TaskIOTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.edu.sumdu.j2se.mogila.tasks.Main" />
+      <module name="NCTaskManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.edu.sumdu.j2se.mogila.tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T1_TaskTest1 and 16 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NCTaskManager" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T1_TaskTest1" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T1_TaskTest2" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T2_ArrayTest" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T3_Exceptions" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T3_LinkedTest" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T4_AbstractTaskList" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T5_ArrayTaskListCloneTest" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T5_ArrayTaskListEqualsTest" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T5_ArrayTaskListIteratorTest" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T5_LinkedTaskListCloneTest" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T5_LinkedTaskListEqualsTest" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T5_LinkedTaskListIteratorTest" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T5_TaskCloneTest" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T5_TaskEqualsTest" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T6_StreamAPITest" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T7_TasksTest" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T7_TaskTest" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T1_TaskTest1 and 17 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NCTaskManager" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T1_TaskTest1" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T1_TaskTest2" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T2_ArrayTest" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T3_Exceptions" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T3_LinkedTest" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T4_AbstractTaskList" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T5_ArrayTaskListCloneTest" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T5_ArrayTaskListEqualsTest" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T5_ArrayTaskListIteratorTest" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T5_LinkedTaskListCloneTest" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T5_LinkedTaskListEqualsTest" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T5_LinkedTaskListIteratorTest" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T5_TaskCloneTest" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T5_TaskEqualsTest" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T6_StreamAPITest" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T7_TasksTest" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T7_TaskTest" />
+        <pattern testClass="com.netcracker.eductr.tasks.tests.T8_TaskIOTest" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T7_TasksTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NCTaskManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.netcracker.eductr.tasks.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.netcracker.eductr.tasks.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.netcracker.eductr.tasks.tests.T7_TasksTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T8_TaskIOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NCTaskManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.netcracker.eductr.tasks.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.netcracker.eductr.tasks.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.netcracker.eductr.tasks.tests.T8_TaskIOTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NCTaskManager [test]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.T8_TaskIOTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.T1_TaskTest1 and 17 more" />
+        <item itemvalue="JUnit.T1_TaskTest1 and 16 more" />
+        <item itemvalue="JUnit.T7_TasksTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="002b0af0-6aed-4534-87c9-9bc5ab57a20e" name="Default Changelist" comment="" />
+      <created>1572892216954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572892216954</updated>
+      <workItem from="1576681242527" duration="684000" />
+      <workItem from="1576766272687" duration="1169000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Tomcat_Server" timestamp="1576767327986">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Tomcat_Server/0.0.1366.728@0.0.1366.728" timestamp="1576767327986" />
+    <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1583271860438">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583271860438" />
+    <state width="1323" height="90" key="GridCell.Tab.0.bottom" timestamp="1583347632529">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="90" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583347632529" />
+    <state width="1323" height="90" key="GridCell.Tab.0.center" timestamp="1583347632529">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="90" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583347632529" />
+    <state width="1323" height="90" key="GridCell.Tab.0.left" timestamp="1583347632528">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="90" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583347632528" />
+    <state width="1323" height="90" key="GridCell.Tab.0.right" timestamp="1583347632529">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="90" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583347632529" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1576767332736">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576767332736" />
+    <state x="421" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1576766275901">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="421" y="224" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1576766275901" />
+    <state x="65" y="0" key="new project wizard" timestamp="1583261906357">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1583261906357" />
+  </component>
+</project>

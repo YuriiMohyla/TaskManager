@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.netcracker.eductr.tasks.tests.T5_ArrayTaskListEqualsTest" time="0" tests="6" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="12"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.class.path" value="C:\NCTaskManager2\NCTaskManager\target\test-classes;C:\NCTaskManager2\NCTaskManager\target\classes;C:\Users\Юра\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Юра\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Юра\.m2\repository\org\hamcrest\hamcrest-all\1.3\hamcrest-all-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Kiev"/>
+    <property name="user.country.format" value="UA"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="12"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="RU"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-12.0.2\bin"/>
+    <property name="sun.java.command" value="C:\Users\Юра\AppData\Local\Temp\surefire2192832509492516418\surefirebooter5514701386758267744.jar C:\Users\Юра\AppData\Local\Temp\surefire2192832509492516418 2019-12-01T16-05-57_833-jvmRun1 surefire8214398492497985654tmp surefire_04857500968122080330tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\NCTaskManager2\NCTaskManager\target\test-classes;C:\NCTaskManager2\NCTaskManager\target\classes;C:\Users\Юра\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Юра\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Юра\.m2\repository\org\hamcrest\hamcrest-all\1.3\hamcrest-all-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Юра"/>
+    <property name="user.language" value="ru"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2019-07-16"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-12.0.2"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\NCTaskManager2\NCTaskManager"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="idea.version2019.2.4" value="true"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\Юра\AppData\Local\Temp\surefire2192832509492516418\surefirebooter5514701386758267744.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="12.0.2+10"/>
+    <property name="user.name" value="Юра"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1251"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Юра\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\6EDA~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="12.0.2"/>
+    <property name="user.dir" value="C:\NCTaskManager2\NCTaskManager"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.language.format" value="uk"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-12.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Embarcadero\Studio\20.0\bin;C:\Users\Public\Documents\Embarcadero\Studio\20.0\Bpl;C:\Program Files (x86)\Embarcadero\Studio\20.0\bin64;C:\Users\Public\Documents\Embarcadero\Studio\20.0\Bpl\Win64;C:\Inprise\vbroker\bin;C:\PROGRA~2\Borland\CBUILD~1\Bin;C:\PROGRA~2\Borland\CBUILD~1\Projects\Bpl;C:\Program Files\Java\jdk-12.0.2\bin\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Calibre2\;C:\Program Files\Git\cmd;C:\Users\Public\Documents\Embarcadero\Studio\20.0\BPL;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="12.0.2+10"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="56.0"/>
+  </properties>
+  <testcase name="part1_testEqualsToItself" classname="com.netcracker.eductr.tasks.tests.T5_ArrayTaskListEqualsTest" time="0"/>
+  <testcase name="part2_testEquals" classname="com.netcracker.eductr.tasks.tests.T5_ArrayTaskListEqualsTest" time="0"/>
+  <testcase name="part3_testEqualsChanged" classname="com.netcracker.eductr.tasks.tests.T5_ArrayTaskListEqualsTest" time="0"/>
+  <testcase name="part4_testEqualsNull" classname="com.netcracker.eductr.tasks.tests.T5_ArrayTaskListEqualsTest" time="0"/>
+  <testcase name="part5_testEqualsToString" classname="com.netcracker.eductr.tasks.tests.T5_ArrayTaskListEqualsTest" time="0"/>
+  <testcase name="part6_testHashCode" classname="com.netcracker.eductr.tasks.tests.T5_ArrayTaskListEqualsTest" time="0"/>
+</testsuite>
